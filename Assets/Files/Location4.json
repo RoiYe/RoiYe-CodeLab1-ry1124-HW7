@@ -1,0 +1,8 @@
+{
+    "title": "Cafeteria",
+  "description": "Having a break in CAFETERIA after class is the best time for students as well as teachers.\n\nWest:SCHOOL BUILDING\nSouth:GATE\nNorth:STORAGE",
+    "nLocation": 5,
+    "sLocation": 0,
+    "eLocation": -1,
+    "wLocation": 2
+}

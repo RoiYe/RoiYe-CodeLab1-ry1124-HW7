@@ -1,0 +1,8 @@
+{
+    "title": "School Building",
+  "description": "The SCHOOL BUILDING is the place Where students spend most of their school life.\n\nSouth:PLAYGROUND\nEast:CAFETERIA\nNorth:GARDEN",
+    "nLocation": 3,
+    "sLocation": 1,
+    "eLocation": 4,
+    "wLocation": -1
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Gate",
+  "description": "SCHOOL GATE.A middle aged door keeper is standing here. \n\nNorth:CAFETERIA\nWest:PLAYGROUND",
+    "nLocation": 4,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": 1
+}
